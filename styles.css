@@ -1,1 +1,15 @@
 /* your code */
+table{
+	background-color: crimson;
+	padding:10px;
+}
+
+th{
+	border: 1px solid black;
+	padding:5px 30px;
+}
+
+
+td{
+	padding: 10px 20px;
+}
